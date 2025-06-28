@@ -1,10 +1,11 @@
 📽️ Aplikasi Booking Tiket Bioskop - Kelompok 4
 
 👥 Anggota Kelompok:
-1. M. Ari Fauzi (NIM: 20xxxxxxxx)
-2. [Nama Anggota 2] (NIM: ...)
-3. [Nama Anggota 3] (NIM: ...)
-4. [Nama Anggota 4] (NIM: ...)
+1. M. ARI FAUZI
+2. M. FARID ZULIANTO
+3. MAZDA REZA AZHARI
+4. MOH. FAISAL RAMADHAN
+5. MOHAMMAD HAIDAR
 
 📌 Deskripsi Program:
 Aplikasi ini adalah simulasi pemesanan tiket bioskop berbasis Java menggunakan konsep **Object-Oriented Programming (OOP)**. Pengguna dapat:
